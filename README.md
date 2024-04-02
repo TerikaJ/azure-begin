@@ -33,18 +33,18 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 <h3>&#9313; Create a Resource Group</h3>
 
-- In the Search Box at the top header, type and select "Resource groups".
-  - If "Resource groups" is already listed on the front page, then you can simply click on it, rather than manually searching.
+- In the Search Box at the top header, type "Resource groups" and select the name from the drop down menu.
+  - If you find that "Resource groups" is already listed on the home page, then you can simply click the link, rather than manually searching.
 <p align="center">
 <img src="https://i.imgur.com/gza489d.jpg" height="64%" width="64%" alt="Azure Step 2-1"/>
 </p>
 
-- Click "Create" on the top left menu, OR simply press "Create resource group" in the center box (assuming one doesn't exist yet).
+- Click "Create" on the top left menu, OR simply click "Create resource group" in the center box (assuming one doesn't exist yet).
 <p align="center">
 <img src="https://i.imgur.com/5Jo1cEg.jpg" height="64%" width="64%" alt="Azure Step 2-2"/>
 </p>
 
-- Name your "Resource group" to whatever you want (this example uses **RG-01**).
+- Name your "Resource group" anything you want (this example uses **RG-01**).
 - Change the "Region" to a location that is closest to you (this example uses **(US) West US 3**).
 - Skip everything else and click "Review + Create" on the lower left, which you should have "Validation passed" on the next page.
 - Click "Create".
