@@ -25,7 +25,7 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 - Click "Start Free".
 - Follow the prompt to create an account.
   - You WILL need to provide your credit card information to receive the free $200 Azure credits!
-    <div> Azure will not charge you, <b>but please keep in mind the credits are only accessible for 30 days!</b>
+    <div> Azure will not charge you, <b>however, please keep in mind the credits are only accessible for 30 days!</b>
 - Once you've completed the sign-up portion, click on <a href="https://portal.azure.com/">Go to the Azure Portal (portal.azure.com)</a>.
 <p align="center">
 <img src="https://i.imgur.com/FklBT6F.jpg" height="64%" width="64%" alt="Azure Free Account"/>
@@ -34,7 +34,7 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <h3>&#9313; Create a Resource Group</h3>
 
 - In the Search Box at the top header, type "Resource groups" and select the name from the drop down menu.
-  - If you find that "Resource groups" is already listed on the home page, then you can simply click the link, rather than manually searching.
+  - If you find that "Resource groups" is already listed on the home page, then you can simply click the link, rather than performing a manual searching.
 <p align="center">
 <img src="https://i.imgur.com/gza489d.jpg" height="64%" width="64%" alt="Azure Step 2-1"/>
 </p>
@@ -46,7 +46,8 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 - Name your "Resource group" anything you want (this example uses **RG-01**).
 - Change the "Region" to a location that is closest to you (this example uses **(US) West US 3**).
-- Skip everything else and click "Review + Create" on the lower left, which you should have "Validation passed" on the next page.
+- Skip everything else and click "Review + Create" on the lower left.
+- You should see "Validation passed" on the next page.
 - Click "Create".
 <p align="center">
 <img src="https://i.imgur.com/BSiQM05.jpg" height="100%" width="100%" alt="Azure Step 2-3"/>
@@ -54,8 +55,8 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 <h3>&#9314; Create a Storage Account</h3>
 
-- In the Search Box at the top header, type and select "Storage accounts".
-  - If "Storage accounts" is already listed on the front page, then you can simply click on it, rather than manually searching.
+- In the "Search" box at the top header, type and select "Storage accounts" from the drop down.
+  - If you see "Storage accounts" already listed on the home page, you can simply click on it, rather than performing a manual search.
 <p align="center">
 <img src="https://i.imgur.com/HMUaR98.jpg" height="70%" width="70%" alt="Azure Step 3-1"/>
 </p>
