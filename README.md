@@ -117,9 +117,9 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <img src="https://i.imgur.com/rP1uKCe.jpg" height="64%" width="64%" alt="Azure Step 5-2"/>
 </p>
 
-- Macintosh users will have to take a different approach:
-  - Download "Microsoft Remote Desktop", and Open it.
-- Click Add PC", input the public IP address, then select "Add".
+- Macintosh users begin here:
+  - Download "Microsoft Remote Desktop" from the application store, and Open it.
+- Click "Add PC", input the public IP address, then select "Add".
 <p align="center">
 <img src="https://i.imgur.com/ZhWBhLs.png" height="50%" width="50%" alt="Azure Step 5-2-1"/>
 <img src="https://i.imgur.com/Mx1gHxa.png" height="50%" width="50%" alt="Azure Step 5-2-2"/>
@@ -127,17 +127,17 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
   
 - Double-click on the virtual machine, then enter the username and password from Step 4 above.
 - Select "Continue".
-- A prompt will appear about the identity cannot be verified; just press "YES".
+- A prompt will appear that mentions "the identity cannot be verified;" continue and press "YES".
 <p align="center">
 <img src="https://i.imgur.com/3YxlS2G.jpg" height="64%" width="64%" alt="Azure Step 5-3"/>
 </p>
 
-- Toggle any settings you want, then click "Accept".
+- Toggle the settings you want, then click "Accept".
 <p align="center">
 <img src="https://i.imgur.com/VlNH4O9.jpg" height="50%" width="50%" alt="Azure Step 5-4"/>
 </p>
 
-🎊 CONGRATULATIONS! You have created your first virtual machine within Azure! 🎊
+🎊 CONGRATULATIONS! You have created your very first virtual machine within Microsoft Azure! 🎊
 <p align="center">
 <img src="https://i.imgur.com/PpLmQO7.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
@@ -145,30 +145,30 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 <h3>BONUS: Delete All Resources In Azure</h3>
 
-_To retain your free Azure credits as much as possible, we have to make sure we DELETE ALL resources after every project._
-- From Azure, go to Resource Groups, select any Resource listed, then click "Delete resource group".
+_To retain your free remaining Azure credits, we must ensure that we DELETE ALL of our resources after every project._
+- From Azure, navigate to "Resource Groups", select any Resource listed, then click "Delete resource group".
 - Type the resource group name to confirm deletion (faster to copy/paste the name).
 - Then click "Delete".
-_Repeat these steps for each and every resource group listed until all are deleted_
+_Repeat these steps for every resource group listed until all resources are deleted_
 <p align="center">
 <img src="https://i.imgur.com/Yedg9Cl.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
   
-_If you have any created virtual machines:_
-- From Azure, go to "Virtual Machines", select any that are listed, the click "Delete".
+_If you have remaining virtual machines:_
+- From Azure, navigate to "Virtual Machines", select any that are listed, then click "Delete".
 - Checkmark the box "I have read and understand..."
 - Then click "Delete".
-_Repeat these steps until all listed are deleted._
+_Repeat these steps until all listed machines and supporting applications are deleted._
 <p align="center">
 <img src="https://i.imgur.com/T8VFNCO.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 <img src="https://i.imgur.com/dkuz7TD.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
 
-_Best way to check if all resources are gone is going to "All resources" from the Portal Home page to see if anything remains._
+_The best way to ensure all resources are removed is by navigating to "All resources" located on the Portal Home page to verify deletion._
 <p align="center">
 <img src="https://i.imgur.com/gVnbWJS.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
   
 <h1><p align=center> Done! Good job! </p></h1>
 
-<h2><p align=center>Next Demonstration:<br><a href="https://github.com/terikaj/configure-ad">Configuring On-premises Active Directory within Azure VMs</a></p></h2>
+<h2><p align=center> Our Next Demonstration:<br><a href="https://github.com/terikaj/configure-ad">Configuring On-premises Active Directory within Azure VMs</a></p></h2>
