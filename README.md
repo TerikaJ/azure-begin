@@ -76,8 +76,8 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 <h3>&#9315; Create a Virtual Machine</h3>
      
-- In the Search Box at the top header, type and select "Virtual machines".
-  - If "Virtual machines" is already listed on the front page, then you can simply click on it, rather than manually searching.
+- In the Search Box at the top header, type and select "Virtual machines" from the drop down.
+  - If "Virtual machines" is already listed on the front page, you can simply click the icon link, rather than performing a manual search.
 <p align="center">
 <img src="https://i.imgur.com/6DdH3MD.jpg" height="70%" width="70%" alt="Azure Step 4-1"/>
 </p>
@@ -93,10 +93,10 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 - Choose your "Image" (this example uses **Windows 10 Pro, version 22H2 - x64 Gen2**)
 - Choose a "Size" (this example uses **Standard_E2s_v3 - 2 vcpus, 16 GiB memory**)
 - Create any username and password of your choice (this example uses the username: **vmuser**)
-  - Make sure NOT to forget these credentials.
+  - Be sure to write down your login credentials (username/password), either on a notepad or utilize the "stickies" application within your PC or Mac.
 - Check the "Licensing" checkbox.
 - Click "Review + create".
-  - Once validation passed, click "Create".
+  - After validation passed, click "Create".
 <p align="center">
 <img src="https://i.imgur.com/UaviYRo.jpg" height="70%" width="70%" alt="Azure Step 4-3"/>
 <img src="https://i.imgur.com/mcix7TW.jpg" height="70%" width="70%" alt="Azure Step 4-4"/>
@@ -104,14 +104,14 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 <h3>&#9316; Connect to the Virtual Machine via Remote Desktop</h3>
 
-- Go to your Virtual Machine that was just created and COPY the public IP address (located on the right side).
+- Navigate to your most recently created Virtual Machine and COPY the machine's public IP address (located on the right side).
 <p align="center">
 <img src="https://i.imgur.com/Cr02uvs.jpg" height="100%" width="100%" alt="Azure Step 5-1"/>
 </p>
 
-- Press the Windows Key (or Start Button), type and select "Remote Desktop Connection".
-- Input the virtual machine's Public IP Address and click Connect.
-- Enter the username and password from Step 4 above, then click OK.
+- Press the Windows Key (or Start Button), then select "Remote Desktop Connection".
+- Input the virtual machine's Public IP Address and click "Connect".
+- Enter the username and password (copy from your notepad) in Step 4, then click "OK".
   
 <p align="center">
 <img src="https://i.imgur.com/rP1uKCe.jpg" height="64%" width="64%" alt="Azure Step 5-2"/>
@@ -125,7 +125,7 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <img src="https://i.imgur.com/Mx1gHxa.png" height="50%" width="50%" alt="Azure Step 5-2-2"/>
 </p>
   
-- Double-click on the virtual machine, then enter the username and password from Step 4 above.
+- Double-click on the virtual machine, then enter the username and password from Step 4.
 - Select "Continue".
 - A prompt will appear that mentions "the identity cannot be verified;" continue and press "YES".
 <p align="center">
