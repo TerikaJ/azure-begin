@@ -24,9 +24,9 @@ This demonstration will show how to do the following:
 Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
 - Click "Start Free".
 - Follow the prompt to create an account.
-  - You WILL need to put in your credit card information to receive the free $200 worth of Azure credits!
-    <div> It will not charge you, <b>but only lasts for 30 days!</b>
-- Once completed, click on <a href="https://portal.azure.com/">Go to the Azure Portal (portal.azure.com)</a>.
+  - You WILL need to provide your credit card information to receive the free $200 Azure credits!
+    <div> Azure will not charge you, <b>but please keep in mind the credits are only accessible for 30 days!</b>
+- Once you've completed the sign-up portion, click on <a href="https://portal.azure.com/">Go to the Azure Portal (portal.azure.com)</a>.
 <p align="center">
 <img src="https://i.imgur.com/FklBT6F.jpg" height="64%" width="64%" alt="Azure Free Account"/>
 </p><hr>
