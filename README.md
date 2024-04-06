@@ -135,19 +135,9 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 
 <img width="450" alt="Azure 16" src="https://github.com/TerikaJ/azure-begin/assets/136477450/fc9296f5-b84e-432c-a07e-10c2c3486464">
 
-
 </p>
 
-- Press the Windows Key (or Start Button), then select "Remote Desktop Connection".
-- Input the virtual machine's Public IP Address and click "Connect".
-- Enter the username and password (copy from your notepad) in Step 4, then click "OK".
-  
-<p align="center">
-<img src="https://i.imgur.com/rP1uKCe.jpg" height="64%" width="64%" alt="Azure Step 5-2"/>
-</p>
-
-- Macintosh users begin here:
-  - Download "Microsoft Remote Desktop" from the application store, and Open it.
+- Download "Microsoft Remote Desktop" from the application store, and Open it.
 - Click "Add PC", input the public IP address, then select "Add".
 <p align="center">
 
@@ -160,18 +150,13 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
   
 - Double-click on the virtual machine, then enter the username and password from Step 4.
 - Select "Continue".
-- A prompt will appear that mentions "the identity cannot be verified;" continue and press "YES".
-<p align="center">
-<img src="https://i.imgur.com/3YxlS2G.jpg" height="64%" width="64%" alt="Azure Step 5-3"/>
-</p>
-
 - Toggle the settings you want, then click "Accept".
 <p align="center">
 <img width="350" alt="Azure 22" src="https://github.com/TerikaJ/azure-begin/assets/136477450/561cf5ae-2df5-4c2c-a8f1-6e06c1ef3fe3">
 
 </p>
 
-🎊 CONGRATULATIONS! You've created your very first virtual machine within Microsoft Azure! 🎊
+CONGRATULATIONS! You've created your very first virtual machine within Microsoft Azure! 
 <p align="center">
 
 <img width="350" alt="Azure 23" src="https://github.com/TerikaJ/azure-begin/assets/136477450/71568840-b6c3-40d7-b921-9006c398c8a8">
