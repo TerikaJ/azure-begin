@@ -199,4 +199,4 @@ _The best way to ensure all resources are removed is by navigating to "All resou
   
 <h1><p align=center> Done! Good job! </p></h1>
 
-<h2><p align=center> The Next Demonstration:<br><a href="https://github.com/terikaj/configure-ad">Configuring Active Directory within an Azure Virtual Machine</a></p></h2>
+<h2><p align=center> The Next Demonstration:<br><a href="https://github.com/terikaj/azure-network-protocols">Wireshark Network Traffic Inspection</a></p></h2>
